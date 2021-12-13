@@ -1,14 +1,14 @@
 package com.github.tiagogomes187.citiesapi.cities.service;
 
-import java.util.Arrays;
-import java.util.List;
-
 import com.github.tiagogomes187.citiesapi.cities.entities.City;
 import com.github.tiagogomes187.citiesapi.cities.repositories.CityRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.data.geo.Point;
 import org.springframework.stereotype.Service;
+
+import java.util.Arrays;
+import java.util.List;
 
 @Service
 public class DistanceService {

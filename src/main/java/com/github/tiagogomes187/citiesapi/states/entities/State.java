@@ -1,4 +1,4 @@
-package com.github.tiagogomes187.citiesapi.staties.entities;
+package com.github.tiagogomes187.citiesapi.states.entities;
 
 import com.github.tiagogomes187.citiesapi.countries.entities.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
